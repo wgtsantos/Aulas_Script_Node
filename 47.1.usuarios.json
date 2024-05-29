@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Marta Silva",
+    "idade": 23,
+    "email": "marta@gmail.com"
+  },
+  {
+    "nome": "Marcos Sena",
+    "idade": 18,
+    "email": "marcos@gmail.com"
+  },
+  {
+    "nome": "João Marcos",
+    "idade": 25,
+    "email": "Jaum@gmail.com"
+  },
+  {
+    "nome": "Silvana Lopes",
+    "idade": 16,
+    "email": "silvana@gmail.com"
+  },
+  {
+    "nome": "Fulano",
+    "idade": 25,
+    "email": "fulano@gmail.com"
+  }
+]
