@@ -1,7 +1,7 @@
 # Aulas_Script_Node
 Aulas de Lógica de programação com Javascript no Prompt Node JS 
 
-# Mini Tutorial de Instalação de Node.js, npm e readline-sync
+## Mini Tutorial de Instalação de Node.js, npm e readline-sync
 
 ## Introdução
 
